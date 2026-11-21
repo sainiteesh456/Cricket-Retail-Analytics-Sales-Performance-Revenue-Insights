@@ -1,0 +1,171 @@
+order_id,order_date,brand,equipment_category,player_level,city,sales_channel,quantity,unit_price_inr,discount_pct,payment_method,customer_rating,revenue
+CRK-1191,26-12-2025,Kookaburra,Wicket Keeping Gloves,Club,Chennai,Retail Outlet,4,2145,15,Debit Card,3,7293.0
+CRK-1007,2026.08.04,New Balance,Wicket Keeping Gloves,Academy,Kolkata,Retail Outlet,3,4333,20,Debit Card,3,10399.2
+CRK-1206,04-01-2026, gm ,English Willow Bat,Academy,Delhi,Online Store,1,44437,5,Cash,4,42215.15
+CRK-1186,06-04-2025, dsc ,Batting Gloves,Club,Delhi,Retail Outlet,3,2772,25,Debit Card,2,6237.0
+CRK-1031,03-03-2026,Kookaburra,Thigh Guard,Club,Delhi,Online Store,1,1164,5,Cash,1,1105.8
+CRK-1181,28-07-2025,New Balance,Thigh Guard,Club,Hyderabad,Marketplace,2,1082,25,Cash,2,1623.0
+CRK-1222,26-08-2026, new balance ,Cricket Shoes,Professional,Pune,Online Store,1,2844,0,Debit Card,1,2844.0
+CRK-1217,08-07-2025,MRF,Kit Bag,Club,Delhi,Online Store,7,4940,25,Net Banking,3,25935.0
+CRK-1137,12-11-2025, gray-nicolls ,Wicket Keeping Gloves,Professional,Ahmedabad,Club Bulk Order,4,2933,15,UPI,2,9972.199999999999
+CRK-1069,2025.09.13,MRF,Wicket Keeping Gloves,State,Delhi,Online Store,3,1935,15,Net Banking,4,4934.25
+CRK-1016,12-09-2025,SS,Thigh Guard,State,Delhi,Retail Outlet,14,1022,5,UPI,2,13592.599999999999
+CRK-1025,12-08-2025,DSC,Kashmir Willow Bat,Beginner,Kolkata,Retail Outlet,3,4677,15,Credit Card,4,11926.35
+CRK-1235,23-09-2026,DSC,Cricket Helmet,Beginner,Kolkata,Club Bulk Order,2,7986,20,Cash,1,12777.6
+CRK-1153,01-08-2025, kookaburra ,Kashmir Willow Bat,State,Hyderabad,Retail Outlet,1,5155,0,Debit Card,1,5155.0
+CRK-1125,19-11-2025,DSC,Kashmir Willow Bat,Professional,Ahmedabad,Online Store,2,5291,15,Credit Card,3,8994.699999999999
+CRK-1098,03-07-2025,Kookaburra,Kit Bag,Professional,Bengaluru,Online Store,3,5679,25,Debit Card,3,12777.75
+CRK-1244,27-09-2026,Kookaburra,Kashmir Willow Bat,State,Chennai,Online Store,1,2119,10,Debit Card,3,1907.1000000000001
+CRK-1011,28-02-2025,New Balance,Batting Gloves,Professional,Kolkata,Retail Outlet,1,1387,5,Cash,3,1317.6499999999999
+CRK-1165,05-12-2025,SG,English Willow Bat,Professional,Pune,Club Bulk Order,8,37530,20,Credit Card,4,240192.0
+CRK-1185,30-03-2026,Kookaburra,Thigh Guard,Academy,Delhi,Retail Outlet,1,1895,15,Debit Card,1,1610.75
+CRK-1098,03-07-2025,Kookaburra,Kit Bag,Professional,Bengaluru,Online Store,3,5679,25,Debit Card,3,12777.75
+CRK-1210,21-06-2026,SS,Cricket Shoes,Academy,Mumbai,Retail Outlet,4,3400,20,Net Banking,3,10880.0
+CRK-1223,15-06-2025,MRF,Leather Cricket Ball,Academy,Kolkata,Online Store,15,2080,0,UPI,2,31200.0
+CRK-1026,04-05-2025,SG,Leather Cricket Ball,Club,Ahmedabad,Marketplace,4,5706,10,Debit Card,4,20541.600000000002
+CRK-1019,17-08-2026,New Balance,Thigh Guard,Academy,Pune,Retail Outlet,3,2108,25,Credit Card,1,4743.0
+CRK-1138,27-08-2026,SG,Kit Bag,Beginner,Mumbai,Retail Outlet,4,5845,15,Net Banking,4,19873.0
+CRK-1196,04-02-2026,SS,Cricket Shoes,State,Bengaluru,Online Store,7,8210,0,Debit Card,3,57470.0
+CRK-1177,15-06-2025, kookaburra ,Cricket Shoes,Academy,Kolkata,Online Store,1,6768,5,Credit Card,5,6429.599999999999
+CRK-1182,23-02-2025,SG,Thigh Guard,Professional,Kolkata,Marketplace,3,2359,0,Debit Card,3,7077.0
+CRK-1068,20-02-2026,MRF,Cricket Shoes,Academy,Mumbai,Marketplace,3,7343,20,UPI,3,17623.2
+CRK-1201,02-01-2026,SG,Cricket Helmet,State,Bengaluru,Retail Outlet,6,5619,10,Debit Card,3,30342.600000000002
+CRK-1085,30-08-2025,SS,Wicket Keeping Gloves,Club,Delhi,Marketplace,3,4915,5,Cash,4,14007.75
+CRK-1056,06-10-2026,New Balance,Cricket Shoes,Academy,Chennai,Online Store,1,4965,25,Debit Card,1,3723.75
+CRK-1220,11-04-2026,DSC,Batting Gloves,State,Kolkata,Retail Outlet,3,3570,25,UPI,4,8032.5
+CRK-1105,13-08-2026,DSC,Cricket Shoes,Academy,Hyderabad,Retail Outlet,1,7425,0,Net Banking,3,7425.0
+CRK-1140,04-08-2026,SS,Kashmir Willow Bat,State,Ahmedabad,Club Bulk Order,3,4707,15,Cash,2,12002.85
+CRK-1128,24-05-2026,GM,Batting Gloves,State,Ahmedabad,Club Bulk Order,3,2107,20,Credit Card,4,5056.8
+CRK-1061,12-01-2026,New Balance,Kit Bag,Professional,Ahmedabad,Online Store,2,3763,0,Debit Card,2,7526.0
+CRK-1102,10-02-2026,DSC,Cricket Shoes,Professional,Pune,Marketplace,4,3712,15,Debit Card,4,12620.8
+CRK-1173,24-05-2025,SS,Wicket Keeping Gloves,Academy,Ahmedabad,Retail Outlet,1,3837,20,Cash,2,3069.6000000000004
+CRK-1127,05-03-2025,MRF,Kashmir Willow Bat,Academy,Ahmedabad,Online Store,1,3954,25,Net Banking,4,2965.5
+CRK-1225,2026.04.22,Kookaburra,Kit Bag,Academy,Chennai,Online Store,1,1704,25,Cash,1,1278.0
+CRK-1145,2026.10.01,DSC,Cricket Helmet,Club,Chennai,Club Bulk Order,11,4080,10,Credit Card,4,40392.0
+CRK-1179,2026.06.29,New Balance,Wicket Keeping Gloves,State,Kolkata,Marketplace,4,4561,0,Cash,2,18244.0
+CRK-1074,2025.12.20,DSC,Batting Pads,Academy,Kolkata,Retail Outlet,1,3992,15,Debit Card,2,3393.2
+CRK-1115,19-06-2025,Gray-Nicolls,Kit Bag,Beginner,Ahmedabad,Club Bulk Order,1,44496,5,Net Banking,3,42271.2
+CRK-1159,16-08-2025,DSC,Cricket Helmet,Club,Kolkata,Retail Outlet,4,5650,25,Net Banking,4,16950.0
+CRK-1110,14-04-2026,New Balance,Kashmir Willow Bat,Academy,Hyderabad,Retail Outlet,4,2791,15,UPI,2,9489.4
+CRK-1116,15-04-2025,DSC,Batting Gloves,State,Delhi,Retail Outlet,2,3317,25,Net Banking,1,4975.5
+CRK-1246,23-09-2025, ss ,Cricket Helmet,Club,Mumbai,Club Bulk Order,2,7096,0,Net Banking,3,14192.0
+CRK-1114,12-05-2026, sg ,Thigh Guard,Academy,Delhi,Retail Outlet,1,630,15,Debit Card,2,535.5
+CRK-1091,03-03-2026,MRF,Batting Pads,Club,Bengaluru,Club Bulk Order,4,3213,20,UPI,4,10281.6
+CRK-1030,18-05-2026,SG,Thigh Guard,Club,Ahmedabad,Online Store,1,1247,15,Cash,1,1059.95
+CRK-1171,25-02-2025,NEW BALANCE,Kashmir Willow Bat,Club,Delhi,Online Store,6,2727,25,Net Banking,3,12271.5
+CRK-1083,10-01-2025,DSC,Wicket Keeping Gloves,Academy,Pune,Marketplace,3,3439,0,UPI,4,10317.0
+CRK-1006,11-06-2025,Gray-Nicolls,Wicket Keeping Gloves,Beginner,Mumbai,Marketplace,2,4876,5,Debit Card,4,9264.4
+CRK-1133,02-01-2025,GM,Cricket Shoes,Academy,Pune,Retail Outlet,1,3016,5,Credit Card,4,2865.2
+CRK-1066,12-02-2026, gray-nicolls ,Batting Pads,State,Kolkata,Marketplace,5,3144,10,Credit Card,3,14148.0
+CRK-1187,2025.06.09,SS,Cricket Shoes,State,Chennai,Club Bulk Order,3,2844,15,Cash,3,7252.2
+CRK-1237,14-05-2026, mrf ,Kit Bag,Club,Ahmedabad,Retail Outlet,2,5370,15,UPI,4,9129.0
+CRK-1013,11-07-2026,SG,Kashmir Willow Bat,Academy,Delhi,Retail Outlet,2,5274,20,Debit Card,4,8438.4
+CRK-1036,18-04-2026,MRF,Wicket Keeping Gloves,Beginner,Kolkata,Retail Outlet,2,4110,5,Net Banking,6,7809.0
+CRK-1043,09-05-2026,DSC,Kashmir Willow Bat,State,Mumbai,Online Store,3,2320,15,Debit Card,4,5916.0
+CRK-1023,06-07-2026,Kookaburra,Thigh Guard,Beginner,Mumbai,Online Store,2,655,5,Credit Card,2,1244.5
+CRK-1126,08-11-2025,SG,Batting Gloves,Professional,Mumbai,Marketplace,3,1501,5,Credit Card,1,4277.849999999999
+CRK-1094,21-07-2026,GM,Batting Pads,Club,Ahmedabad,Club Bulk Order,5,3585,15,Cash,4,15236.25
+CRK-1143,13-10-2026,Kookaburra,Batting Gloves,Beginner,Hyderabad,Marketplace,3,4369,10,Cash,2,11796.300000000001
+CRK-1240,02-06-2026,Gray-Nicolls,Cricket Helmet,Club,Bengaluru,Club Bulk Order,2,7604,25,Credit Card,4,11406.0
+CRK-1224,2025.08.03,SS,Cricket Helmet,State,Ahmedabad,Marketplace,15,4890,20,Cash,2,58680.0
+CRK-1077,16-06-2026,MRF,Batting Gloves,State,Ahmedabad,Club Bulk Order,9,2496,20,Debit Card,1,17971.2
+CRK-1042,14-07-2025,MRF,English Willow Bat,Professional,Kolkata,Retail Outlet,1,22194,10,Debit Card,4,19974.600000000002
+CRK-1120,16-09-2026, mrf ,Batting Gloves,Beginner,Chennai,Online Store,3,3514,25,Net Banking,1,7906.5
+CRK-1156,18-11-2025,Kookaburra,Leather Cricket Ball,Beginner,Kolkata,Online Store,2,1358,25,Credit Card,3,2037.0
+CRK-1079,19-09-2026,SG,Wicket Keeping Gloves,Professional,Pune,Club Bulk Order,3,2702,20,Credit Card,2,6484.8
+CRK-1151,15-05-2025,SG,Leather Cricket Ball,Beginner,Mumbai,Online Store,13,1694,0,Net Banking,1,22022.0
+CRK-1027,30-08-2026,SS,Thigh Guard,Academy,Pune,Club Bulk Order,3,1682,5,Debit Card,3,4793.7
+CRK-1169,26-09-2026,SG,Wicket Keeping Gloves,State,Kolkata,Online Store,3,1892,15,Credit Card,2,4824.599999999999
+CRK-1119,29-05-2026, gm ,Wicket Keeping Gloves,Academy,Pune,Online Store,2,3489,5,Credit Card,1,6629.099999999999
+CRK-1141,01-09-2025,New Balance,English Willow Bat,Academy,Bengaluru,Marketplace,1,23149,5,Net Banking,1,21991.55
+CRK-1003,22-08-2025,Kookaburra,Thigh Guard,Professional,Hyderabad,Retail Outlet,3,1807,25,Credit Card,2,4065.75
+CRK-1047,2025.09.14, sg ,Leather Cricket Ball,State,Kolkata,Online Store,3,1832,25,Debit Card,1,4122.0
+CRK-1205,14-03-2026,MRF,Batting Gloves,Academy,Pune,Marketplace,9,2961,10,Cash,2,23984.100000000002
+CRK-1160,01-03-2026,SS,Cricket Shoes,Club,Bengaluru,Retail Outlet,4,9206,15,Cash,2,31300.399999999998
+CRK-1184,12-03-2025,DSC,Batting Pads,Academy,Hyderabad,Club Bulk Order,3,4649,20,Cash,4,11157.6
+CRK-1061,12-01-2026,New Balance,Kit Bag,Professional,Ahmedabad,Online Store,2,3763,0,Debit Card,2,7526.0
+CRK-1099,21-09-2026, dsc ,Cricket Helmet,Club,Kolkata,Club Bulk Order,4,7136,20,UPI,2,22835.2
+CRK-1062,24-03-2026,Kookaburra,English Willow Bat,Club,Pune,Club Bulk Order,1,25691,0,Debit Card,3,25691.0
+CRK-1200,03-09-2026,SS,Cricket Shoes,Academy,Hyderabad,Retail Outlet,1,5067,5,Debit Card,3,4813.65
+CRK-1143,13-10-2026,Kookaburra,Batting Gloves,Beginner,Hyderabad,Marketplace,3,4369,10,Cash,2,11796.300000000001
+CRK-1012,25-09-2025,DSC,Cricket Helmet,Professional,Hyderabad,Retail Outlet,4,5080,20,Debit Card,4,16256.0
+CRK-1250,21-02-2025,SS,Cricket Shoes,Academy,Pune,Marketplace,1,3228,15,Cash,2,2743.7999999999997
+CRK-1242,30-06-2026,GM,Kit Bag,State,Hyderabad,Club Bulk Order,9,1553,0,Debit Card,2,13977.0
+CRK-1028,21-02-2026,New Balance,English Willow Bat,Academy,Pune,Club Bulk Order,11,15070,15,Debit Card,2,140904.5
+CRK-1005,2025.08.13, new balance ,English Willow Bat,Beginner,Ahmedabad,Online Store,1,40416,20,Cash,4,32332.800000000003
+CRK-1148,03-05-2025,Gray-Nicolls,Batting Gloves,Academy,Bengaluru,Marketplace,2,1653,25,Credit Card,1,2479.5
+CRK-1139,10-05-2025,SS,Batting Gloves,Beginner,Pune,Marketplace,1,3952,15,Cash,4,3359.2
+CRK-1063,2026.04.26, ss ,Batting Pads,State,Chennai,Retail Outlet,1,5724,5,Cash,1,5437.8
+CRK-1136,22-07-2026,Gray-Nicolls,Kashmir Willow Bat,Club,Hyderabad,Marketplace,1,1983,15,Credit Card,2,1685.55
+CRK-1129,11-07-2026,DSC,Leather Cricket Ball,Beginner,Mumbai,Club Bulk Order,1,2047,5,Net Banking,4,1944.6499999999999
+CRK-1232,22-04-2026,MRF,Leather Cricket Ball,State,Ahmedabad,Marketplace,8,1136,0,Debit Card,3,9088.0
+CRK-1194,01-01-2026,New Balance,Cricket Helmet,Academy,Kolkata,Club Bulk Order,4,5655,25,Credit Card,3,16965.0
+CRK-1045,08-07-2026,MRF,Thigh Guard,Professional,Pune,Club Bulk Order,4,1769,5,Debit Card,2,6722.2
+CRK-1166,18-02-2026,Kookaburra,Leather Cricket Ball,Beginner,Ahmedabad,Retail Outlet,1,1081,10,Debit Card,4,972.9
+CRK-1157,19-05-2026, gray-nicolls ,Batting Pads,State,Ahmedabad,Marketplace,4,4387,20,Net Banking,1,14038.400000000001
+CRK-1124,30-07-2025,New Balance,Batting Gloves,State,Hyderabad,Retail Outlet,3,3548,25,Cash,3,7983.0
+CRK-1154,25-10-2025,GM,English Willow Bat,Academy,Chennai,Online Store,6,12319,20,Credit Card,2,59131.200000000004
+CRK-1024,11-04-2026,GM,Kit Bag,Club,Mumbai,Retail Outlet,3,26352,0,Cash,1,79056.0
+CRK-1228,10-08-2025,DSC,Kashmir Willow Bat,Beginner,Chennai,Retail Outlet,2,3441,15,Cash,2,5849.7
+CRK-1216,31-01-2025,GM,Cricket Helmet,Beginner,Delhi,Retail Outlet,3,3157,20,Net Banking,4,7576.8
+CRK-1040,03-08-2026, mrf ,Kit Bag,State,Ahmedabad,Online Store,2,4288,10,Cash,3,7718.400000000001
+CRK-1214,10-10-2025,GM,English Willow Bat,State,Hyderabad,Retail Outlet,15,43156,5,Credit Card,2,614973.0
+CRK-1048,14-02-2025,Gray-Nicolls,English Willow Bat,Professional,Hyderabad,Club Bulk Order,4,44953,15,Credit Card,3,152840.19999999998
+CRK-1162,02-07-2025,DSC,Wicket Keeping Gloves,State,Mumbai,Online Store,3,3277,15,UPI,4,8356.35
+CRK-1044,28-08-2025,DSC,Kashmir Willow Bat,Beginner,Chennai,Online Store,1,4150,0,Cash,3,4150.0
+CRK-1146,24-11-2025,New Balance,Kit Bag,Professional,Ahmedabad,Club Bulk Order,3,3320,5,Credit Card,4,9462.0
+CRK-1176,28-12-2025,NEW BALANCE,Batting Gloves,Club,Pune,Online Store,4,2651,5,Debit Card,3,10073.8
+CRK-1004,13-08-2025,SG,Leather Cricket Ball,Club,Ahmedabad,Retail Outlet,4,1152,15,Cash,3,3916.7999999999997
+CRK-1054,29-12-2025,SG,Kashmir Willow Bat,Academy,Pune,Marketplace,3,4989,0,UPI,3,14967.0
+CRK-1134,10-12-2025,Kookaburra,Kashmir Willow Bat,Beginner,Kolkata,Marketplace,2,4465,15,Cash,3,7590.5
+CRK-1233,20-04-2025,Gray-Nicolls,Kit Bag,Professional,Kolkata,Marketplace,4,2573,5,Cash,2,9777.4
+CRK-1198,27-04-2026,Gray-Nicolls,Kashmir Willow Bat,Professional,Delhi,Online Store,2,5406,0,Credit Card,3,10812.0
+CRK-1238,25-02-2026,SG,Leather Cricket Ball,Professional,Hyderabad,Online Store,3,648,0,Debit Card,6,1944.0
+CRK-1050,01-05-2026, ss ,Kashmir Willow Bat,Beginner,Pune,Marketplace,3,4554,15,Cash,1,11612.699999999999
+CRK-1035,2026.07.10,DSC,Thigh Guard,Club,Hyderabad,Retail Outlet,8,2043,15,UPI,1,13892.4
+CRK-1245,21-09-2025,SS,Kit Bag,State,Delhi,Retail Outlet,3,2996,15,Cash,2,7639.8
+CRK-1008,13-12-2025,KOOKABURRA,English Willow Bat,Club,Delhi,Marketplace,2,19555,15,Net Banking,1,33243.5
+CRK-1172,04-08-2026,GM,Batting Pads,Academy,Ahmedabad,Club Bulk Order,3,5147,10,UPI,3,13896.9
+CRK-1111,01-05-2025,DSC,Kit Bag,Academy,Chennai,Retail Outlet,1,2246,20,Debit Card,2,1796.8000000000002
+CRK-1092,15-07-2025,GM,Kashmir Willow Bat,Club,Chennai,Online Store,4,2496,10,UPI,4,8985.6
+CRK-1084,29-06-2025,GM,Kashmir Willow Bat,Academy,Chennai,Marketplace,3,3283,0,Debit Card,3,9849.0
+CRK-1234,2026.08.11,NEW BALANCE,Thigh Guard,Professional,Mumbai,Retail Outlet,4,934,25,UPI,3,2802.0
+CRK-1090,24-05-2025,DSC,Leather Cricket Ball,Professional,Bengaluru,Marketplace,4,864,0,Debit Card,3,3456.0
+CRK-1009,2026.04.24, ss ,Leather Cricket Ball,State,Ahmedabad,Online Store,2,1851,10,Cash,6,3331.8
+CRK-1014,11-10-2025,DSC,Cricket Helmet,Professional,Bengaluru,Club Bulk Order,1,3217,25,Net Banking,2,2412.75
+CRK-1060,14-04-2025,SG,Cricket Shoes,State,Delhi,Club Bulk Order,4,3678,10,Credit Card,4,13240.800000000001
+CRK-1221,03-06-2025,MRF,Kit Bag,Beginner,Delhi,Club Bulk Order,11,2886,5,Net Banking,1,30158.699999999997
+CRK-1132,24-04-2025,SS,Kit Bag,Club,Pune,Club Bulk Order,4,4137,15,Credit Card,4,14065.8
+CRK-1018,2025.07.21,DSC,Kashmir Willow Bat,Club,Bengaluru,Marketplace,3,4463,10,Debit Card,4,12050.1
+CRK-1073,04-08-2025,SG,Cricket Helmet,State,Mumbai,Marketplace,3,6244,25,Debit Card,2,14049.0
+CRK-1135,04-02-2025, ss ,Batting Gloves,Club,Ahmedabad,Marketplace,3,4130,20,Net Banking,1,9912.0
+CRK-1209,2026.09.02,GM,Batting Gloves,Club,Kolkata,Retail Outlet,3,2309,20,Credit Card,3,5541.6
+CRK-1064,17-01-2025,MRF,Leather Cricket Ball,Beginner,Mumbai,Marketplace,3,870,20,Debit Card,1,2088.0
+CRK-1108,14-04-2026,Gray-Nicolls,Batting Gloves,State,Kolkata,Marketplace,12,2233,15,Cash,3,22776.6
+CRK-1212,2026.09.30,SG,Wicket Keeping Gloves,Academy,Hyderabad,Club Bulk Order,1,1660,0,UPI,4,1660.0
+CRK-1175,15-06-2026,New Balance,English Willow Bat,Academy,Bengaluru,Marketplace,14,44359,20,UPI,2,496820.80000000005
+CRK-1190,08-10-2026,New Balance,Cricket Shoes,Academy,Hyderabad,Club Bulk Order,3,3119,25,Cash,4,7017.75
+CRK-1007,2026.08.04,New Balance,Wicket Keeping Gloves,Academy,Kolkata,Retail Outlet,3,4333,20,Debit Card,3,10399.2
+CRK-1208,27-02-2025,GM,Batting Pads,Academy,Pune,Retail Outlet,1,5314,0,Credit Card,3,5314.0
+CRK-1227,15-08-2026, dsc ,Batting Gloves,Beginner,Chennai,Club Bulk Order,4,2125,0,UPI,2,8500.0
+CRK-1170,12-10-2026,DSC,Wicket Keeping Gloves,Club,Pune,Retail Outlet,1,2023,25,Cash,2,1517.25
+CRK-1059,13-05-2025,Gray-Nicolls,Leather Cricket Ball,Academy,Pune,Retail Outlet,4,1873,0,Net Banking,5,7492.0
+CRK-1049,04-09-2026, gm ,Kashmir Willow Bat,State,Kolkata,Marketplace,4,4955,5,UPI,2,18829.0
+CRK-1089,24-08-2025,DSC,Kashmir Willow Bat,Club,Mumbai,Online Store,2,1919,0,Net Banking,3,3838.0
+CRK-1058,17-09-2026,DSC,Leather Cricket Ball,Academy,Kolkata,Retail Outlet,2,1638,20,Credit Card,2,2620.8
+CRK-1204,01-03-2025,SG,Kashmir Willow Bat,Professional,Delhi,Retail Outlet,4,5295,20,Net Banking,4,16944.0
+CRK-1188,03-02-2025,MRF,Wicket Keeping Gloves,Club,Pune,Club Bulk Order,4,32022,10,Credit Card,4,115279.2
+CRK-1192,23-03-2025,Kookaburra,Cricket Helmet,Club,Kolkata,Online Store,12,6013,15,Debit Card,4,61332.6
+CRK-1038,2025.06.05,DSC,Thigh Guard,Academy,Hyderabad,Club Bulk Order,4,7894,5,Net Banking,4,29997.199999999997
+CRK-1158,17-07-2026,SS,Cricket Helmet,Professional,Delhi,Club Bulk Order,3,7807,0,Cash,3,23421.0
+CRK-1002,13-06-2025,MRF,Kashmir Willow Bat,Beginner,Hyderabad,Marketplace,13,2143,15,Cash,2,23680.149999999998
+CRK-1150,13-05-2025,Gray-Nicolls,Cricket Helmet,Academy,Pune,Marketplace,7,8175,5,Credit Card,4,54363.75
+CRK-1131,12-07-2025,New Balance,English Willow Bat,Club,Delhi,Club Bulk Order,1,14978,20,Debit Card,2,11982.400000000001
+CRK-1104,05-03-2026,DSC,Cricket Shoes,State,Kolkata,Club Bulk Order,3,7075,0,UPI,3,21225.0
+CRK-1117,27-08-2026,GM,Cricket Helmet,State,Chennai,Retail Outlet,13,6261,0,UPI,4,81393.0
+CRK-1088,07-03-2026,New Balance,Kit Bag,Beginner,Kolkata,Retail Outlet,3,1861,20,Debit Card,4,4466.400000000001
+CRK-1203,2025.04.20,GM,Cricket Shoes,State,Ahmedabad,Online Store,1,4514,5,UPI,4,4288.3
+CRK-1021,30-03-2026,GM,Batting Gloves,State,Ahmedabad,Club Bulk Order,3,3654,20,Debit Card,2,8769.6
+CRK-1107,21-09-2026,GM,Batting Pads,Professional,Ahmedabad,Marketplace,2,3108,5,Debit Card,3,5905.2
+CRK-1180,27-03-2025,GM,English Willow Bat,Academy,Bengaluru,Club Bulk Order,3,310735,0,Net Banking,3,932205.0
+CRK-1103,01-08-2026,MRF,Thigh Guard,State,Chennai,Retail Outlet,4,2391,5,UPI,3,9085.8
