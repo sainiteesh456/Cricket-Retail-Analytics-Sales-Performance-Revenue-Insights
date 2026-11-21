@@ -1,4 +1,4 @@
-# Cricket_Equipent_analysis-Power_BI-Python-Excel-
+# Cricket_Equipment_analysis-Power_BI-Python-Excel-
 # 🏏 Cricket Equipment Sales & Regional Revenue Analysis (India)
 
 An end-to-end data analytics project comparing revenue generated across all cricket equipment categories across major cities in India using **Excel**, **Python**, and **Power BI**.
