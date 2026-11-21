@@ -53,4 +53,4 @@ Cricket_Equipment_analysis/
 ---
 
 ## 📬 Contact
-Created by **Niteesh Samavedam** – feel free to connect on [LinkedIn](www.linkedin.com/in/sai-niteesh-a97128261) or reach out via email for feedback and collaboration!
+Created by **Niteesh Samavedam** – feel free to connect on [LinkedIn](https://www.linkedin.com/in/sai-niteesh-a97128261) or reach out via email for feedback and collaboration!
